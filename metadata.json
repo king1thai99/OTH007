@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Secure Character Vault Pro",
+  "description": "Professional-grade character archival system with biometric scanning, AI generation, and granular customization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
